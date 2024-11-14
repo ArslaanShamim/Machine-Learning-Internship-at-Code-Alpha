@@ -2,7 +2,8 @@
 This repository highlights the projects I completed during my machine learning internship. Each project is organized in its directory, containing detailed Jupyter notebooks and a README file to provide a thorough understanding of the methodologies and outcomes.
 
 
-##Projects Overview
+#**Projects Overview**
+
 **1. Credit Scoring Model**
 Developed a predictive model to assess creditworthiness using historical financial data. The project employs various classification algorithms and evaluates the model's accuracy and performance through metrics and analysis.
 
